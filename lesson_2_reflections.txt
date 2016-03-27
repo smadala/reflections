@@ -5,3 +5,10 @@ create .git folder, it store meta data about tracking file.
 How is the staging area different from the working directory and the repository? What value do you think it offers?
 working directory may contains additional files which need not to be in repository( like generated files or ide files)
 
+How can you use the staging area to make sure you have one commit per logical change?
+move only one logical change to stagging area at once.
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+
+want to label a commit, try an experiment feature. branch simplifies creating labels
+
