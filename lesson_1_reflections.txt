@@ -1,0 +1,11 @@
+it helped automatically line number when the files are differ
+
+decreased the search space
+
+can revert changes if something is broken
+
+Why do you think some version control systems, like Git, allow saving multiple files in one commit, while others, like Google Docs, treat each file separately?
+
+it is very common one logical change need to change multiple files.
+
+How can you use the commands git log and git diff to view the history of files?
