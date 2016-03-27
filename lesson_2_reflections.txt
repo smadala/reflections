@@ -1,0 +1,7 @@
+What happens when you initialize a repository? Why do you need to do it?
+create .git folder, it store meta data about tracking file.
+
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+working directory may contains additional files which need not to be in repository( like generated files or ide files)
+
